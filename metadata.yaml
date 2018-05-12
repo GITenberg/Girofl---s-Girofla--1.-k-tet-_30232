@@ -1,0 +1,28 @@
+_repo: Girofl---s-Girofla--1.-k-tet-_30232
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30232-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ambrus, Zoltán
+    alias: Ambrus, Zoltan
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '34456'
+    url: http://www.gutenberg.org/2009/agents/34456
+    wikipedia: http://hu.wikipedia.org/wiki/Ambrus_Zolt%C3%A1n_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2009-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30232'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: 'Giroflé és Girofla: Regény (1. kötet)'
+url: http://www.gutenberg.org/ebooks/30232
